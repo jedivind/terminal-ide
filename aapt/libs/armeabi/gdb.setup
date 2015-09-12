@@ -1,0 +1,2 @@
+set solib-search-path /home/paddy/SpartacusRex/projects/IDE/TerminalIDE/BINARY/aapt/obj/local/armeabi
+directory /home/paddy/Android/android-ndk-r6b/platforms/android-9/arch-arm/usr/include /home/paddy/SpartacusRex/projects/IDE/TerminalIDE/BINARY/aapt/jni/../jni/include /home/paddy/SpartacusRex/projects/IDE/TerminalIDE/BINARY/aapt/jni/../jni/src/expat/lib /home/paddy/SpartacusRex/projects/IDE/TerminalIDE/BINARY/aapt/jni/../jni/src/libpng /home/paddy/Android/android-ndk-r6b/sources/cxx-stl/stlport/stlport /home/paddy/Android/android-ndk-r6b/sources/cxx-stl/system/include
